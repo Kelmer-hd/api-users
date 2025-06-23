@@ -75,8 +75,8 @@ GET /api/usuarios
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/spring-boot-api-basica.git
-cd spring-boot-api-basica
+git clone https://github.com/Kelmer-hd/api-users.git
+cd api-users
 ```
 
 2. Compila el proyecto:
